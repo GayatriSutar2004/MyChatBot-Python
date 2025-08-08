@@ -14,19 +14,12 @@ It tells visitors what your project is and the main technologies used.
 
 Keeping it concise helps people quickly understand the value or purpose of your project.
 
-[![Chatbot Screenshot](./assets/chatbot_screenshot.png)](https://your-live-demo-link.com)
-
-This is a linked image in Markdown.
 
 The part inside the square brackets ![Chatbot Screenshot](...) displays an image in your README.
 
 ./assets/chatbot_screenshot.png is the relative path to the image file inside your repo.
 
 The alt text "Chatbot Screenshot" shows if the image can’t load and improves accessibility.
-
-The outer square brackets [ ... ](https://your-live-demo-link.com) wrap the image with a clickable link.
-
-Clicking on the image will open your live demo URL.
 
 This makes the image both a visual and interactive element, encouraging users to click it.
 
